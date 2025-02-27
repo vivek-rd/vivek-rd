@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm currently looking for full time Data Science positions in the US and I will complete my graduate program in April'25.
-- Skills - Python, Deep Learning, NLP, Machine Learning, Software Engineering.
+- Skills - Deep Learning, Natural Language Processing, Artificial Intelligence, Machine Learning, Software Engineering.
 
 <!--
 **vivek-rd/vivek-rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
